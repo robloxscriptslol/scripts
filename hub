@@ -23,7 +23,7 @@ local Window = Rayfield:CreateWindow({
       FileName = "RSP - Key",
       SaveKey = false,
       GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-      Key = "https://pastebin.com/raw/jWQFi8kR"
+      Key = "https://pastebin.com/raw/K5QzA90Z"
    }
 })
 
